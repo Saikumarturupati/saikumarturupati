@@ -9,7 +9,7 @@
 
 <!--- 👨‍💻 All of my projects are available at [https://vercel.app/](https://pavan-kallem.vercel.app/)-->
 
-- 💬 Ask me about **HTML, CSS, Javascript, GitHub**
+- 💬 Ask me about **HTML, CSS, Javascript,React.js, GitHub**
 
 - 📫 How to reach me **saikumarturupati@gmail.com**
 
